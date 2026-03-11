@@ -1,0 +1,1 @@
+## smart speaker 코드
