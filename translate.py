@@ -1,4 +1,3 @@
-## translate 코드
 from translate import Translator
 
 text = "배고프니?? 밥 먹어."
