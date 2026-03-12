@@ -34,3 +34,5 @@ if __name__ == "__main__":
 
     result = speech_to_text(audio_file)
     print("변환된 텍스트:", result)
+
+    # 비틀비틀 걸어가는 나의 다리, 오늘도 의미없는 또하루가 지나가고
