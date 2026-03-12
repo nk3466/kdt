@@ -38,6 +38,7 @@ from import select
 9호선 지하철은 정말 못탈거같아요.
 사람이 너무 많아요.
 
+야외수업 고고
 네, 퇴근 QR 조작해주세요.
 
 what is this?
