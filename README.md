@@ -25,10 +25,6 @@ vad 파일
 안녕하세요. 어제는 3월 12일입니다.
 집에 가고싶어요.
 
-
-
-
-
 from import select
 저도 집에 가고싶어요.
 저도 집에 가고싶어요.
@@ -43,3 +39,5 @@ from import select
 사람이 너무 많아요.
 
 네, 퇴근 QR 조작해주세요.
+
+what is this?
