@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # kdt project
 
 STT, TTS, VAD, 번역 기능 통합
@@ -19,7 +18,6 @@ git pull
 git add README.md
 git commit -m "fix: readme"
 git push
-=======
 # kdt
 vad 파일
 
@@ -30,4 +28,5 @@ vad 파일
 
 9호선 지하철은 정말 못탈거같아요.
 사람이 너무 많아요.
->>>>>>> b42bc5f095fe1a284a763a985c0c98a149ebd3c3
+
+야외수업 고고
