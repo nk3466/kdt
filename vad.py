@@ -20,7 +20,7 @@ vad_iterator = VADIterator(model)
 
 SAMPLING_RATE = 16000
 BLOCK_SIZE = 512
-RECORD_SECONDS = 10
+RECORD_SECONDS = 5
 
 speech_buffer = []
 is_speaking = False
