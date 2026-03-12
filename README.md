@@ -14,3 +14,5 @@ from import select
 저도 집에 가고싶어요.
 집에 오늘 일찍 갈까요?
 네, 퇴근 QR 조작해주세요.
+
+what is this?
