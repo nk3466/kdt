@@ -11,3 +11,5 @@ tts_en.save(file_name)
 from IPython.display import  Audio
 
 sound = Audio(file_name, autoplay=True)
+
+# 안녕하세요 집에가고 싶어요. 9호선 지하철은 정말 못탈거같아요.

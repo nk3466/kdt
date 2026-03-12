@@ -10,3 +10,4 @@ vad 파일
 
 
 from import select
+저도 집에 가고싶어요.
