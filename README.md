@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kdt project
 
 STT, TTS, VAD, 번역 기능 통합
@@ -18,3 +19,15 @@ git pull
 git add README.md
 git commit -m "fix: readme"
 git push
+=======
+# kdt
+vad 파일
+
+안녕하세요
+안녕하세요. 어제는 3월 12일입니다.
+집에 가고싶어요.
+저도 집에 가고싶어요.
+
+9호선 지하철은 정말 못탈거같아요.
+사람이 너무 많아요.
+>>>>>>> b42bc5f095fe1a284a763a985c0c98a149ebd3c3
