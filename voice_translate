@@ -153,3 +153,5 @@ def translate(req: TranslateRequest):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("app:app", host=HOST, port=PORT, reload=True)
+
+    # 돌아가는지 안돌아가는지 한번 돌려봅시다 빙글빙글돌아봅시다.
